@@ -1,6 +1,6 @@
 # my_code
 
-Привет, для использования скрипта используй - 
+Привет, для того чтобы скачать скрипт используй - 
 ```sh
 sudo wget https://raw.githubusercontent.com/koval01/my_code/master/b0mb3r_cli/cmd_bomb.py
 ```

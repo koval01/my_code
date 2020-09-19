@@ -13,7 +13,7 @@ sudo git clone https://github.com/koval01/my_code && cd my_code/b* && sudo mv c*
 ```sh
 sudo python3 cmd_bomb.py
 ```
-Для установки зависомостей - 
+Для установки зависимостей - 
 ```sh
 sudo python3.8 -m pip install --upgrade pip requests && sudo python3.8 -m pip install b0mb3r -U
 ```
@@ -23,7 +23,7 @@ sudo python3.8 -m pip install --upgrade pip requests && sudo python3.8 -m pip in
 ```sh
 sudo python3.7 cmd_bomb.py
 ```
-Для установки зависомостей - 
+Для установки зависимостей - 
 ```sh
 sudo python3.7 -m pip install --upgrade pip requests && sudo python3.7 -m pip install b0mb3r -U
 ```
